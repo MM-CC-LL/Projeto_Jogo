@@ -1,0 +1,6 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Projeto_Jogo_da_forca/bin/Debug
+/Projeto_Jogo_da_forca/obj/Debug
